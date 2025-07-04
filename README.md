@@ -4,4 +4,4 @@ Includes a sprint feature that doubles the speed of the player, and a scroll in/
 
 Includes a main menu screen and UI elements that displays the current level and amount of collectibles.
 
-Demonstration video:
+Demonstration video: https://www.youtube.com/watch?v=yHfSah6N9Us
