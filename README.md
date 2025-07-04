@@ -1,6 +1,6 @@
 Includes dynamic level generation that randomizes the locations of: collectibles, the player, the enemy, and walls.
 
-Includes a difficulty ramp-up feature that increases the speed of the enemy, the amount of collectibles needed to collect, and the size of the arena.
+Includes a difficulty ramp-up feature that increases the speed of the enemy, the amount of collectibles needed to collect, and the size of the arena as the player progresses through levels.
 
 Includes a sprint feature that doubles the speed of the player, and a scroll in/out option that allows the player to see more of the level.
 
